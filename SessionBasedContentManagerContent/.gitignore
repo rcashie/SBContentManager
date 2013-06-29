@@ -1,0 +1,8 @@
+# Instructs git to ignore these directories
+bin/
+obj/
+
+# And these file types
+*.suo
+*.cachefile
+*.user

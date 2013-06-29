@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionBasedContentManager", "SessionBasedContentManager\SessionBasedContentManager.csproj", "{05E5A6BA-A921-4B56-A694-9FF6A430A632}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessionBasedContentManagerContent", "SessionBasedContentManagerContent\SessionBasedContentManagerContent.contentproj", "{22D3388D-3FAA-4407-94F8-2528301DEF3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05E5A6BA-A921-4B56-A694-9FF6A430A632}.Debug|x86.ActiveCfg = Debug|x86
+		{05E5A6BA-A921-4B56-A694-9FF6A430A632}.Debug|x86.Build.0 = Debug|x86
+		{05E5A6BA-A921-4B56-A694-9FF6A430A632}.Release|x86.ActiveCfg = Release|x86
+		{05E5A6BA-A921-4B56-A694-9FF6A430A632}.Release|x86.Build.0 = Release|x86
+		{22D3388D-3FAA-4407-94F8-2528301DEF3E}.Debug|x86.ActiveCfg = Debug|x86
+		{22D3388D-3FAA-4407-94F8-2528301DEF3E}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
